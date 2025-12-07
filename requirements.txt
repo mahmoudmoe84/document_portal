@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+ipykernel
+langchain-openai
+#to include the current project as a package for the enviroment
+-e .
