@@ -7,4 +7,4 @@ def load_config(config_path:str="config/config.yaml")->dict:
     print(config)
     return config
 
-load_config()
+# load_config()
